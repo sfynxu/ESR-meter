@@ -1,0 +1,5 @@
+1. Choose a microcontroller
+2. Choose type of display
+3. Establish BOM
+4. Start FW
+5. Assembly and testing
