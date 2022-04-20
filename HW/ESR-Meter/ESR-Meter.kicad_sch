@@ -93,4 +93,58 @@
     (path "/6d646c30-feab-4e3e-adf0-5427b73b5f08/dc23c328-65de-43fb-a914-8938066176bf/3594873d-d94b-4e9e-b5b1-5b1442595696" (page "10"))
     (path "/6d646c30-feab-4e3e-adf0-5427b73b5f08/dc23c328-65de-43fb-a914-8938066176bf/d56fcef4-f1b8-4d2f-930b-7fbea51f96ea" (page "11"))
   )
+
+  (symbol_instances
+    (path "/6d646c30-feab-4e3e-adf0-5427b73b5f08/dc23c328-65de-43fb-a914-8938066176bf/d56fcef4-f1b8-4d2f-930b-7fbea51f96ea/40c3605b-2ff8-4d05-9d96-928ce2ca1b3f"
+      (reference "#PWR01101") (unit 1) (value "VCC") (footprint "")
+    )
+    (path "/6d646c30-feab-4e3e-adf0-5427b73b5f08/dc23c328-65de-43fb-a914-8938066176bf/d56fcef4-f1b8-4d2f-930b-7fbea51f96ea/7cfa9d92-8ee7-445a-9882-bbd57bfcd568"
+      (reference "#PWR01102") (unit 1) (value "~") (footprint "")
+    )
+    (path "/6d646c30-feab-4e3e-adf0-5427b73b5f08/dc23c328-65de-43fb-a914-8938066176bf/d56fcef4-f1b8-4d2f-930b-7fbea51f96ea/57f25ebb-8166-43be-b437-bbfb4320038a"
+      (reference "#PWR01103") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/6d646c30-feab-4e3e-adf0-5427b73b5f08/dc23c328-65de-43fb-a914-8938066176bf/d56fcef4-f1b8-4d2f-930b-7fbea51f96ea/61d2ffb6-3b94-4116-81e7-55fe16de0a27"
+      (reference "C1101") (unit 1) (value "100nF") (footprint "")
+    )
+    (path "/6d646c30-feab-4e3e-adf0-5427b73b5f08/dc23c328-65de-43fb-a914-8938066176bf/d56fcef4-f1b8-4d2f-930b-7fbea51f96ea/f6304c15-d7b3-46f8-9a27-87edd9cc8eb9"
+      (reference "IC1101") (unit 1) (value "74HC595") (footprint "")
+    )
+    (path "/6d646c30-feab-4e3e-adf0-5427b73b5f08/dc23c328-65de-43fb-a914-8938066176bf/d56fcef4-f1b8-4d2f-930b-7fbea51f96ea/d685b4af-d5dd-4c8b-bad8-fe6380968bf2"
+      (reference "R1101") (unit 1) (value "33R") (footprint "")
+    )
+    (path "/6d646c30-feab-4e3e-adf0-5427b73b5f08/dc23c328-65de-43fb-a914-8938066176bf/d56fcef4-f1b8-4d2f-930b-7fbea51f96ea/97959760-4177-46fd-be38-476b47189005"
+      (reference "R1102") (unit 1) (value "33R") (footprint "")
+    )
+    (path "/6d646c30-feab-4e3e-adf0-5427b73b5f08/dc23c328-65de-43fb-a914-8938066176bf/d56fcef4-f1b8-4d2f-930b-7fbea51f96ea/e1f18f8c-5781-4563-844d-adf1dfc4d3e8"
+      (reference "R1103") (unit 1) (value "33R") (footprint "")
+    )
+    (path "/6d646c30-feab-4e3e-adf0-5427b73b5f08/dc23c328-65de-43fb-a914-8938066176bf/d56fcef4-f1b8-4d2f-930b-7fbea51f96ea/4be1e658-4b95-475e-9e8a-81a01d349f05"
+      (reference "R1104") (unit 1) (value "33R") (footprint "")
+    )
+    (path "/6d646c30-feab-4e3e-adf0-5427b73b5f08/dc23c328-65de-43fb-a914-8938066176bf/d56fcef4-f1b8-4d2f-930b-7fbea51f96ea/a2f5326a-79b7-4e50-8b4b-baa40ef44a16"
+      (reference "R1105") (unit 1) (value "100R") (footprint "")
+    )
+    (path "/6d646c30-feab-4e3e-adf0-5427b73b5f08/dc23c328-65de-43fb-a914-8938066176bf/d56fcef4-f1b8-4d2f-930b-7fbea51f96ea/fe2a7023-1f3a-4707-9d6f-f0caa4f3237a"
+      (reference "R1106") (unit 1) (value "100R") (footprint "")
+    )
+    (path "/6d646c30-feab-4e3e-adf0-5427b73b5f08/dc23c328-65de-43fb-a914-8938066176bf/d56fcef4-f1b8-4d2f-930b-7fbea51f96ea/4fabe9c0-3f38-42eb-ace3-c29d3ae7eb60"
+      (reference "R1107") (unit 1) (value "100R") (footprint "")
+    )
+    (path "/6d646c30-feab-4e3e-adf0-5427b73b5f08/dc23c328-65de-43fb-a914-8938066176bf/d56fcef4-f1b8-4d2f-930b-7fbea51f96ea/21d29eb3-60c9-4b57-b2c4-585670f82871"
+      (reference "R1108") (unit 1) (value "100R") (footprint "")
+    )
+    (path "/6d646c30-feab-4e3e-adf0-5427b73b5f08/dc23c328-65de-43fb-a914-8938066176bf/d56fcef4-f1b8-4d2f-930b-7fbea51f96ea/a5f6fa9f-1729-43ae-a709-35cab50f812f"
+      (reference "R1109") (unit 1) (value "100R") (footprint "")
+    )
+    (path "/6d646c30-feab-4e3e-adf0-5427b73b5f08/dc23c328-65de-43fb-a914-8938066176bf/d56fcef4-f1b8-4d2f-930b-7fbea51f96ea/1df68da2-bd69-4e72-b7c5-40c680372e03"
+      (reference "R1110") (unit 1) (value "100R") (footprint "")
+    )
+    (path "/6d646c30-feab-4e3e-adf0-5427b73b5f08/dc23c328-65de-43fb-a914-8938066176bf/d56fcef4-f1b8-4d2f-930b-7fbea51f96ea/bc4d1ded-8ec5-4a69-9054-7592b78e11c0"
+      (reference "R1111") (unit 1) (value "100R") (footprint "")
+    )
+    (path "/6d646c30-feab-4e3e-adf0-5427b73b5f08/dc23c328-65de-43fb-a914-8938066176bf/d56fcef4-f1b8-4d2f-930b-7fbea51f96ea/9197658d-a15d-4cd0-a1aa-6b13230e0ef8"
+      (reference "R1112") (unit 1) (value "100R") (footprint "")
+    )
+  )
 )
