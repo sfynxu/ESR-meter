@@ -1,0 +1,40 @@
+(kicad_sch (version 20211123) (generator eeschema)
+
+  (uuid e63e39d7-6ac0-4ffd-8aa3-1841a4541b55)
+
+  (paper "A4")
+
+  (lib_symbols
+  )
+
+
+  (sheet (at 118.872 64.262) (size 22.987 33.274) (fields_autoplaced)
+    (stroke (width 0.1524) (type solid) (color 0 0 0 0))
+    (fill (color 0 0 0 0.0000))
+    (uuid 609b9e1b-4e3b-42b7-ac76-a62ec4d0e7c7)
+    (property "Sheet name" "MCU" (id 0) (at 118.872 63.5504 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom))
+    )
+    (property "Sheet file" "MCU.kicad_sch" (id 1) (at 118.872 98.1206 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+  )
+
+  (sheet (at 165.481 80.772) (size 14.732 10.414) (fields_autoplaced)
+    (stroke (width 0.1524) (type solid) (color 0 0 0 0))
+    (fill (color 0 0 0 0.0000))
+    (uuid 6d646c30-feab-4e3e-adf0-5427b73b5f08)
+    (property "Sheet name" "User Interface" (id 0) (at 165.481 80.0604 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom))
+    )
+    (property "Sheet file" "User_Interface.kicad_sch" (id 1) (at 165.481 91.7706 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+  )
+
+  (sheet_instances
+    (path "/" (page "1"))
+    (path "/609b9e1b-4e3b-42b7-ac76-a62ec4d0e7c7" (page "2"))
+    (path "/6d646c30-feab-4e3e-adf0-5427b73b5f08" (page "3"))
+  )
+)
