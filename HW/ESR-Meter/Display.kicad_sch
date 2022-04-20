@@ -1,0 +1,34 @@
+(kicad_sch (version 20211123) (generator eeschema)
+
+  (uuid 359d4095-7e08-4e54-945e-63f380a9ecd6)
+
+  (paper "A4")
+
+  (lib_symbols
+  )
+
+
+  (sheet (at 94.488 47.879) (size 35.306 29.337) (fields_autoplaced)
+    (stroke (width 0.1524) (type solid) (color 0 0 0 0))
+    (fill (color 0 0 0 0.0000))
+    (uuid 3594873d-d94b-4e9e-b5b1-5b1442595696)
+    (property "Sheet name" "LEDs" (id 0) (at 94.488 47.1674 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom))
+    )
+    (property "Sheet file" "LEDs.kicad_sch" (id 1) (at 94.488 77.8006 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+  )
+
+  (sheet (at 94.615 87.376) (size 34.798 25.273) (fields_autoplaced)
+    (stroke (width 0.1524) (type solid) (color 0 0 0 0))
+    (fill (color 0 0 0 0.0000))
+    (uuid d56fcef4-f1b8-4d2f-930b-7fbea51f96ea)
+    (property "Sheet name" "Display Controller" (id 0) (at 94.615 86.6644 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom))
+    )
+    (property "Sheet file" "Display Controller.kicad_sch" (id 1) (at 94.615 113.2336 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+  )
+)

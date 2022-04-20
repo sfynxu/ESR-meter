@@ -1,0 +1,23 @@
+(kicad_sch (version 20211123) (generator eeschema)
+
+  (uuid b8475d55-603f-4665-a6ee-f583099b1be1)
+
+  (paper "A4")
+
+  (lib_symbols
+  )
+
+
+  (hierarchical_label "DISP_CLK" (shape input) (at 42.291 88.9 180)
+    (effects (font (size 0.889 0.889)) (justify right))
+    (uuid 89d243fd-caae-4ff4-8d59-cfc654407ddb)
+  )
+  (hierarchical_label "DISP_DATA" (shape input) (at 42.291 90.297 180)
+    (effects (font (size 0.889 0.889)) (justify right))
+    (uuid b9958e5a-a886-4425-97c3-75c8dc65b137)
+  )
+  (hierarchical_label "DISP_STRB" (shape input) (at 42.291 91.694 180)
+    (effects (font (size 0.889 0.889)) (justify right))
+    (uuid f50ce955-0b2f-4ed5-a3f2-3a9112fd9f8f)
+  )
+)

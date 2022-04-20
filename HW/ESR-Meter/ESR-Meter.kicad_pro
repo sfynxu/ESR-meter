@@ -328,6 +328,38 @@
     [
       "6d646c30-feab-4e3e-adf0-5427b73b5f08",
       "User Interface"
+    ],
+    [
+      "d4ef5db0-5fba-4fcd-ab64-2ef2646c5c6d",
+      "PSU"
+    ],
+    [
+      "a09cb1c4-cc63-49c7-a35f-4b80c3ba2217",
+      "Reference"
+    ],
+    [
+      "337d1242-91ab-4446-8b9e-7609c6a49e3c",
+      "Current Generator"
+    ],
+    [
+      "7308e13a-4809-4e8e-af65-9905819aa376",
+      "Signal Amplifier"
+    ],
+    [
+      "fa96c103-a249-4d74-a8f7-f53b2f60fbfe",
+      "Buttons"
+    ],
+    [
+      "dc23c328-65de-43fb-a914-8938066176bf",
+      "Display"
+    ],
+    [
+      "3594873d-d94b-4e9e-b5b1-5b1442595696",
+      "LEDs"
+    ],
+    [
+      "d56fcef4-f1b8-4d2f-930b-7fbea51f96ea",
+      "Display Controller"
     ]
   ],
   "text_variables": {}

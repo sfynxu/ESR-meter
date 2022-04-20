@@ -7,4 +7,28 @@
   (lib_symbols
   )
 
+
+  (sheet (at 104.521 69.088) (size 32.766 33.528) (fields_autoplaced)
+    (stroke (width 0.1524) (type solid) (color 0 0 0 0))
+    (fill (color 0 0 0 0.0000))
+    (uuid dc23c328-65de-43fb-a914-8938066176bf)
+    (property "Sheet name" "Display" (id 0) (at 104.521 68.3764 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom))
+    )
+    (property "Sheet file" "Display.kicad_sch" (id 1) (at 104.521 103.2006 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+  )
+
+  (sheet (at 104.521 28.956) (size 33.02 26.035) (fields_autoplaced)
+    (stroke (width 0.1524) (type solid) (color 0 0 0 0))
+    (fill (color 0 0 0 0.0000))
+    (uuid fa96c103-a249-4d74-a8f7-f53b2f60fbfe)
+    (property "Sheet name" "Buttons" (id 0) (at 104.521 28.2444 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom))
+    )
+    (property "Sheet file" "Buttons.kicad_sch" (id 1) (at 104.521 55.5756 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+  )
 )
